@@ -1,4 +1,4 @@
 [
-  { "id": 1, "name": "Track 01", "intro": "audio/track01/intro.wav", "fragmentos": ["audio/track01/fragmento_a.wav"] },
-  { "id": 2, "name": "Track 02", "intro": "audio/track02/intro.wav", "fragmentos": ["audio/track02/fragmento_a.wav"] }
+  { "id": 1, "name": "Track 01 - Qué Le Pongo", "intro": "audio/track01/intro.wav", "fragmentos": ["audio/track01/fragmento_a.wav"] },
+  { "id": 2, "name": "Track 02 - Si Me Hubieras Llamado Ayer", "intro": "audio/track02/intro.wav", "fragmentos": ["audio/track02/fragmento_a.wav"] }
 ]
